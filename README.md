@@ -1,1 +1,1 @@
-# Manipulator-Trajectory-Planning
+# Lynxmotion-Robotic-Arm-Trajectory-Planning
